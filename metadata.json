@@ -1,0 +1,7 @@
+{
+  "name": "Ekspedisi Harta Karun: Rahasia Pulau Karakter",
+  "description": "Petualangan interaktif Bimbingan dan Konseling (BK) untuk mengenali potensi diri, empati, pemecahan masalah, dan penghargaan diri.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
